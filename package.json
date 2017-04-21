@@ -1,0 +1,19 @@
+{
+  "name": "hexo-filter-variant-images",
+  "version": "0.0.1",
+  "description": "A plug-in to generate variant images",
+  "main": "index.js",
+  "repository": "https://github.com/yutahaga/hexo-filter-variant-images.git",
+  "author": "Yuta Haga <yutahaga7@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hexo",
+    "filter",
+    "thumbnail",
+    "image"
+  ],
+  "dependencies": {
+    "minimatch": "^3.0.3",
+    "stream-to-buffer": "^0.1.0"
+  }
+}
